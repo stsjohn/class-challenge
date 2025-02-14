@@ -48,13 +48,13 @@ class Hero {
 
 
 
-const hero = new Hero("William", 25, "Guerreiro")
+const hero = new Hero("john", 25, "Guerreiro")
 
-const hero2 = new Hero("William", 25, "Mago")
+const hero2 = new Hero("john", 25, "Mago")
 
-const hero3 = new Hero("William", 25, "Monge")
+const hero3 = new Hero("john", 25, "Monge")
 
-const hero4 = new Hero("William", 25, "Ninja")
+const hero4 = new Hero("john", 25, "Ninja")
 
 
 
