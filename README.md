@@ -1,5 +1,5 @@
-# Desafio Dio.me - Conhecimento em Objetos e Classes
-<p>Este repositório contém uma solução para o desafio proposto pela plataforma Dio.me, que visa testar o conhecimento sobre objetos e classes em JavaScript. O objetivo do desafio é criar uma classe Hero com um método que define diferentes tipos de ataques com base no tipo do herói.
-
-# Objetivo do Desafio
-<p>Este desafio visa testar a compreensão sobre o uso de classes e objetos em JavaScript, além de proporcionar a experiência de implementar um método que utilize condicionais para executar comportamentos específicos com base em propriedades de instâncias de classe.</p>
+# Dio.me Challenge - Knowledge in Objects and Classes
+<p>This repository contains a solution to the challenge proposed by the Dio.me platform, which aims to test knowledge about objects and classes in JavaScript. The objective of the challenge is to create a Hero class with a method that defines different types of attacks based on the type of hero.
+  
+# Objective of the Challenge
+<p>This challenge aims to test the understanding of the use of classes and objects in JavaScript, as well as to provide the experience of implementing a method that uses conditionals to execute specific behaviors based on properties of class instances.</p>
